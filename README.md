@@ -16,3 +16,16 @@
 - 👤 [Explore the creator's projects](https://omgithub.com/dzgostozinh-ux).
 - 🌍 [Create with OMGithub](https://omgithub.com).
 <!-- omgithub:readme:end -->
+
+## A Mansão do Silêncio
+
+Jogo de sobrevivência em 3D, em português, ambientado numa mansão escura. Explore os corredores, sobreviva aos três infectados, pegue a chave azul e abra o portão de saída. A pistola tem apenas seis disparos: mire com cuidado.
+
+### Como jogar
+
+- Clique em **Entrar na mansão** para começar.
+- **WASD** move; arraste o mouse para girar a câmera e mire com o botão esquerdo.
+- **E** pega a chave, destranca a saída e escapa.
+- Em telas touch, use o controle direcional, arraste a tela para mirar e os botões **FOGO** / **USAR**.
+
+Abra `index.html` em um servidor estático com acesso à internet (Three.js é carregado por CDN).
